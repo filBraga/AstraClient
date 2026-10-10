@@ -137,3 +137,7 @@ _ReSharper*/
 
 # JetBrain tools
 /.idea
+
+README-PRIVATE.md
+
+data/things/*.rar
